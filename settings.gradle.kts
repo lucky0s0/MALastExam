@@ -23,3 +23,4 @@ rootProject.name = "MALastExam"
 include(":app")
 include(":to-dolist")
 include(":numbergame")
+include(":rockpapperscissors")
