@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MALastExam"
 include(":app")
- 
+include(":to-dolist")
