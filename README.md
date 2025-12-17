@@ -18,13 +18,26 @@
 
 랜덤 숫자를 맞추는 간단한 안드로이드 게임입니다.
 
-## 📱 스크린샷
 <p align="center">
   <img width="382" height="855" alt="number1" src="https://github.com/user-attachments/assets/b8f058e8-89bb-4db2-b330-7b94b2e753f0" />
 <img width="381" height="857" alt="number2" src="https://github.com/user-attachments/assets/5a3ed9e3-d8bd-485e-8c2d-392ee34fa1a8" />
 <img width="385" height="858" alt="number3" src="https://github.com/user-attachments/assets/4958c8e3-b554-408b-91ae-79ca936256df" />
-
 </p>
+
+# ✊✋✌️ 가위바위보 게임
+
+안드로이드로 제작한 간단한 가위바위보 게임입니다.
+
+<p align="center">
+  <img src="images/rsp1.png" width="40%" />
+  <img src="images/rsp2.png" width="40%" />
+</p>
+
+## ✨ 주요 기능
+- 가위 / 바위 / 보 선택
+- 컴퓨터 랜덤 선택
+- 승 / 무 / 패 전적 누적
+- 전적 초기화 기능
 
 ## ✨ 주요 기능
 - 1 ~ 69 범위 랜덤 숫자 생성
