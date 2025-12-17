@@ -14,6 +14,7 @@
 <p align="center">
   <img width="385" height="857" alt="bmi" src="https://github.com/user-attachments/assets/19a16fd6-7a00-44e5-9c28-3ea5691cf4e1" />
 </p>
+
 ## ✨ 주요 기능
 - 키(cm), 몸무게(kg) 입력
 - BMI 자동 계산
