@@ -2,17 +2,22 @@
 
 <p align="center">
 <img width="384" height="860" alt="todo2" src="https://github.com/user-attachments/assets/cc71304e-47fd-4e60-ac76-0d61298d4c3b" />
-   <br/>
-  <em>할 일 추가 및 완료 체크</em>
 </p>
+
+## ✨ 주요 기능
+- 할 일 추가
+- 완료 체크
+- 할 일 삭제
 
 ## 📱 BMI 계산기
 
 <p align="center">
   <img width="385" height="857" alt="bmi" src="https://github.com/user-attachments/assets/19a16fd6-7a00-44e5-9c28-3ea5691cf4e1" />
-  <br/>
-  <em>키와 몸무게를 입력하면 BMI 지수와 건강 상태를 표시합니다</em>
 </p>
+## ✨ 주요 기능
+- 키(cm), 몸무게(kg) 입력
+- BMI 자동 계산
+- 정상 / 과체중 / 비만 상태 안내
 
 # 🎯 숫자 맞추기 게임
 
@@ -37,7 +42,8 @@
 <p align="center">
  <img width="226" height="514" alt="rsp1" src="https://github.com/user-attachments/assets/9b260609-e541-48ca-a956-c482eb173f76" />
 <img width="230" height="516" <img width="226" height="515" alt="rsp3" src="https://github.com/user-attachments/assets/10f2dfe2-53a8-4034-a9b9-c7ddc7b4a68b" />
-alt="rsp2" src="https://github.com/user-attachments/assets/afe80ba7-968e-4cd7-9aff-27743c1ff0d9" />
+<img width="226" height="515" alt="rsp3" src="https://github.com/user-attachments/assets/15a1c076-9cff-428d-9a1c-6c02cbb14101" />
+
 
 </p>
 
