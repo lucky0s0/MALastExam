@@ -41,9 +41,11 @@
 안드로이드로 제작한 간단한 가위바위보 게임입니다.
 
 <p align="center">
- <img width="226" height="514" alt="rsp1" src="https://github.com/user-attachments/assets/9b260609-e541-48ca-a956-c482eb173f76" />
-<img width="230" height="516" <img width="226" height="515" alt="rsp3" src="https://github.com/user-attachments/assets/10f2dfe2-53a8-4034-a9b9-c7ddc7b4a68b" />
-<img width="226" height="515" alt="rsp3" src="https://github.com/user-attachments/assets/15a1c076-9cff-428d-9a1c-6c02cbb14101" />
+
+<img width="226" height="514" alt="rsp1" src="https://github.com/user-attachments/assets/301c88a2-3487-4eac-b6b8-efa36596ca16" />
+<img width="230" height="516" alt="rsp2" src="https://github.com/user-attachments/assets/4e9ed3d0-bfea-437e-9119-8455e59cf1d7" />
+<img width="226" height="515" alt="rsp3" src="https://github.com/user-attachments/assets/96004c98-c9d1-455f-ba5c-413975a63aad" />
+
 
 
 </p>
