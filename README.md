@@ -24,13 +24,21 @@
 <img width="385" height="858" alt="number3" src="https://github.com/user-attachments/assets/4958c8e3-b554-408b-91ae-79ca936256df" />
 </p>
 
-# ✊✋✌️ 가위바위보 게임
+## ✨ 주요 기능
+- 1 ~ 69 범위 랜덤 숫자 생성
+- UP / DOWN 힌트 제공
+- 시도 횟수 카운트
+- 정답 시 축하 메시지 출력
+
+## ✊✋✌️ 가위바위보 게임
 
 안드로이드로 제작한 간단한 가위바위보 게임입니다.
 
 <p align="center">
-  <img src="images/rsp1.png" width="40%" />
-  <img src="images/rsp2.png" width="40%" />
+ <img width="226" height="514" alt="rsp1" src="https://github.com/user-attachments/assets/9b260609-e541-48ca-a956-c482eb173f76" />
+<img width="230" height="516" <img width="226" height="515" alt="rsp3" src="https://github.com/user-attachments/assets/10f2dfe2-53a8-4034-a9b9-c7ddc7b4a68b" />
+alt="rsp2" src="https://github.com/user-attachments/assets/afe80ba7-968e-4cd7-9aff-27743c1ff0d9" />
+
 </p>
 
 ## ✨ 주요 기능
@@ -38,9 +46,3 @@
 - 컴퓨터 랜덤 선택
 - 승 / 무 / 패 전적 누적
 - 전적 초기화 기능
-
-## ✨ 주요 기능
-- 1 ~ 69 범위 랜덤 숫자 생성
-- UP / DOWN 힌트 제공
-- 시도 횟수 카운트
-- 정답 시 축하 메시지 출력
